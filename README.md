@@ -112,7 +112,7 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "AYUSH RAJ",
   profile: "/Profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is Ayush Raj....",
